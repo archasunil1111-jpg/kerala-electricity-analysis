@@ -23,3 +23,11 @@ Dataset Source: Kerala State Electricity Board (KSEB) public statistics.
 - Commercial sector is the second highest contributor
 - Industrial and agriculture sectors contribute comparatively less
 - Public lighting has the lowest electricity consumption
+
+## Visualizations
+
+### Electricity Consumption Distribution
+![Pie Chart](screenshots/pie_chart.png)
+
+### Electricity Consumption by Sector
+![Bar Chart](screenshots/bar_chart.png)
